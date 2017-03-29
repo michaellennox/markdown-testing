@@ -1,18 +1,33 @@
-# markdown-testing
-testing markdown rendering
+## Projet Expérience Web EAA La Chaux-de-Fonds 2017
 
+**Dates:** 28 avril au 19 mai (4 sessions)
 
+### Proposition: 
+
+L'objectif de ce cours sera de créer collectivement un site rassemblant des interviews avec des professionels du graphisme et design liés à l'EAA Cifom - des enseignant•e•s, intervenant•e•s, éventuellement alumnis de cette école.
+
+Chaque participant•e : 
+
+* choisira une personne à interviewer.
+* réalisera l'interview et sa transcription.
+* concevra une mise en page graphique orginiale.
+* exécutera la programmation de cette page au format web (HTML/CSS).
+
+L'interview sera mise en page au format web, dans une forme graphique libre qui peut comporter des des illustrations, des expérimentations typographiques. Il est souhaitable d'utiliser les possibilités actuelles de mise en page CSS: 
+
+* régions
+* grid layout
 * flexbox
 * webfonts
 * columns
 
-A single line.
+Une page d'accueil commune permettra la navigation dans ce mini-site. Hébergement sur Github pages.
 
-### A H3 title:
+<h3>Planning:</h3>
 
-#### A H4 Title
+#### Session 1:
 
-More test:
+Devoirs pour les étudiants:
 - réfléchir préalablement à la personne à interview
 - amener des exemples d'interviews dans le domaine du design / graphisme
 
