@@ -1,8 +1,8 @@
-# Title A
+# Title A
 
 Lorem Ipsum
 
-## Title B
+## Title B
 
 Lorem Ipsum
 
